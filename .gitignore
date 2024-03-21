@@ -1,0 +1,18 @@
+# Archivos temporales o de caché
+*.log
+*.swp
+.DS_Store
+
+# Directorios
+node_modules/
+build/
+dist/
+
+# Archivos de configuración sensibles
+config.json
+secrets.json
+
+# Archivos de compilación o generados
+*.exe
+*.dll
+*.class
